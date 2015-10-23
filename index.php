@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta http-equiv="content-type" content="text/html;charset=windows-1250">
-    <title>Titulek stránky</title>
+    <title>MathWars</title>
     <link rel="stylesheet" href="styly/muj-styl.css" type="text/css">
 </head>
 <body>
