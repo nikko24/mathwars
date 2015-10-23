@@ -8,6 +8,7 @@
 <body>
 <?php
 echo 'ahoj';
+echo 'cau luky jak je??';
 ?>
 </body>
 </html>
