@@ -1,1 +1,4 @@
-pokus
+
+<?php
+echo 'ahoj';
+?>
