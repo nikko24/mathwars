@@ -9,6 +9,7 @@
 <?php
 echo 'ahoj';
 echo 'cau luky jak je??';
+echo "jo jde to, ale døe to."
 ?>
 </body>
 </html>
