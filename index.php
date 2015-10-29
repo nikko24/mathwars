@@ -3,14 +3,14 @@
 <head>
     <meta http-equiv="content-type" content="text/html;charset=windows-1250">
     <title>MathWars</title>
-    <link rel="stylesheet" href="styly/muj-styl.css" type="text/css">
+
 </head>
 <body>
 <?php
 echo 'ahoj';
 echo 'cau luky jak je??';
 echo "jo jde to, ale dře to.";
-echo 'hmmmm'
+echo 'hmmmm';
 echo 'smrdis';
 ?>
 </body>
