@@ -11,6 +11,7 @@ echo 'ahoj';
 echo 'cau luky jak je??';
 echo "jo jde to, ale døe to.";
 echo 'hmmmm'
+echo 'smrdis';
 ?>
 </body>
 </html>
